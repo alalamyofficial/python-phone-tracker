@@ -3,7 +3,7 @@ from phonenumbers import geocoder
 from phonenumbers import carrier
 from phonenumbers import timezone 
 
-number="+201068864143"
+number="put your phone number have +countrycode"
 
 
 ch_number = phonenumbers.parse(number,"CH")
